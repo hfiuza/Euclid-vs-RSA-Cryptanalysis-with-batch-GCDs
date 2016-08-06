@@ -1,0 +1,15 @@
+g++ -std=c++11 Test_GMP.cpp -o Test_GMP.exe -lgmpxx -lgmp
+g++ Batch_GCD.cpp -o Batch_GCD.exe -lgmpxx -lgmp
+g++ Batch_GCD.cpp Cracking_the_keys.cpp -o Cracking_the_keys.exe -lgmpxx -lgmp
+
+
+g++ generate_output.cpp -o generate_output.exe -lgmpxx -lgmp
+mpic++ (...)
+
+
+
+
+Running
+
+mpirun -np 8 Cracking_the_keys
+

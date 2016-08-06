@@ -1,0 +1,10 @@
+http://facthacks.cr.yp.to/remainder.html
+https://gmplib.org/manual/Integer-Functions.html#Integer-Functions
+https://gmplib.org/manual/GMP-Basics.html#GMP-Basics
+https://en.wikipedia.org/wiki/Binary_GCD_algorithm#Algorithm
+http://natmchugh.blogspot.fr/2015/06/batch-gcd-ssh-key-challenge.html
+http://technologytwist.com/top-tips-to-choosing-a-network-topology/
+https://technet.microsoft.com/en-us/library/ff919478%28v=ws.11%29.aspx
+https://technet.microsoft.com/en-us/library/gg250664%28v=ws.10%29.aspx
+https://openclassrooms.com/courses/la-cryptographie-asymetrique-rsa/comment-utiliser-gmp
+http://mrteverett.com/numbers/primes/
